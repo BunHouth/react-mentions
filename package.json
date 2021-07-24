@@ -1,9 +1,9 @@
 {
   "name": "react-mentions-fork",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React mentions input",
-  "main": "dist/react-mentions.cjs.js",
-  "module": "dist/react-mentions.esm.js",
+  "main": "dist/react-mentions-fork.cjs.js",
+  "module": "dist/react-mentions-fork.esm.js",
   "files": [
     "dist"
   ],
